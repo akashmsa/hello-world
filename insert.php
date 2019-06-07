@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "https://databases.000webhost.com/";
 $username = "id9713655_akash";
 $password = "123456";
 $connected = false;
