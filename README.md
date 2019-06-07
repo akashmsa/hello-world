@@ -1,3 +1,2 @@
-# hello-world
-Just another repository to test
-hello world testing for branch
+# My sample website
+My website where you can find some blogs which were written by me
